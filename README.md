@@ -1,3 +1,4 @@
-# hello_
+# hello_world
 
-hey you, i wanna better then you
+this is my first repository
+
